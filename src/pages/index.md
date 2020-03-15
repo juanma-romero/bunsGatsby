@@ -1,11 +1,11 @@
 ---
 templateKey: home-page
 title: Buns
-heading: Panes y pre pizzas artesanales
+heading: Panes y Pre pizzas artesanales
 description: >-
   Elaboramos y distribuimos Panes para sandwiches, hamburguesas, superpanchos,
-  choripanes y pre pizzas a comercios y a cualquier tipo de evento. todos
-  nuestros productos son elaborados panes y pre pizzas artesanalmente
+  choripanes y Pre pizzas a comercios y a cualquier tipo de evento. Todos
+  nuestros productos son elaborados artesanalmente
 offerings:
   blurbs:
     - image: /img/coffee.png
