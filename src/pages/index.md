@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
-title: Gatsby Starter Business
+title: Buns panes y pre pizzas artesanales
 heading: Lorem ipsum dolor sit amet
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+  Elaboramos y distribuimos panes para sandwiches, hamburguesas, superpanchos,
+  choripanes y pre pizzas artesanales a comercios y a cualquier tipo de evento 
 offerings:
   blurbs:
     - image: /img/coffee.png
